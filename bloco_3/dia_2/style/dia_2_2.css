@@ -4,13 +4,11 @@ body{
 
 h1 {
     font-family: sans-serif;
-
 }
 
 p {
     font-weight: 600;
-    font-size: 3rem;
-    
+    font-size: 3rem;    
 }
 
 p, ul {

@@ -4,7 +4,9 @@ h1 {
     color: orange;
 }
 
+
 ul {
+    text-align: center;
     color:silver;
     background-color:royalblue ;
 }
@@ -12,4 +14,14 @@ ul {
 .list {
 
     background-color: springgreen;
+}
+
+.formulary {
+
+    display: block;
+    align-items: center;
+    align-content: center;
+   
+
+   
 }

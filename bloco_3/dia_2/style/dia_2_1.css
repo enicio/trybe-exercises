@@ -17,11 +17,7 @@ ul {
 }
 
 .formulary {
-
-    display: block;
-    align-items: center;
-    align-content: center;
-   
-
-   
+    
+    display: flex;
+       
 }

@@ -15,14 +15,14 @@ p, ul {
     text-align: center;
 }
 
-#Amarelo {
+.Amarelo {
     background: yellow;
 }
 
-#Vermelho {
+.Vermelho {
     background: red;
 }
 
-#Marron {
+.Marron {
     background: brown;
 }

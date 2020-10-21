@@ -1,0 +1,23 @@
+h1 {
+
+    font-size: 65px;
+    color: orange;
+}
+
+
+ul {
+    text-align: center;
+    color:silver;
+    background-color:royalblue ;
+}
+
+.list {
+
+    background-color: springgreen;
+}
+
+.formulary {
+    
+    display: flex;
+       
+}

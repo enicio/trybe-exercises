@@ -15,7 +15,6 @@ O programa deve retornar uma mensagem de erro e encerrar se a nota passada for m
      console.log("Nota invalida");
  } else {
 
-
 // if(nota >= 90) {
 //     console.log("A")
 // } else if ( nota >= 80) {

@@ -19,3 +19,4 @@ let ValorVenda = 0;
 let lucro = 0;
 
 
+

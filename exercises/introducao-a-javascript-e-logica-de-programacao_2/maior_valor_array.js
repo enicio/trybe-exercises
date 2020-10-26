@@ -10,4 +10,4 @@ for (let i = 1; i <= numbers.length; i++) {
         } 
 }
 
-console.log(maior);
+console.log(`O Maior numero é ${maior}` );

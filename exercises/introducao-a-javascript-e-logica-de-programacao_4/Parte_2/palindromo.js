@@ -22,9 +22,7 @@ function verificaPalindromo(name) {
     }   else{
         console.log("false")
     }
-
    
-    
 }
 
 verificaPalindromo("kombi")
